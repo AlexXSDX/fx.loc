@@ -23,7 +23,8 @@ class UpdateForex implements I_UpdateForex
 		            ]
 	        	);
 			}
-			return $update;
 		}
+
+		return $update;
 	}
 }
